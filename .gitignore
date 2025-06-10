@@ -1,0 +1,14 @@
+# Python specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+.eggs/
+*.egg-info/
+dist/
+build/
+*.whl
+
+Data.json
