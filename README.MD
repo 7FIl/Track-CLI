@@ -1,6 +1,6 @@
 # How to Install Track-CLI
 
-1. **Clone the github repository
+1. **Clone the github repository**
 
     ```bash
     git clone https://github.com/7FIl/Track-CLI.git
@@ -49,5 +49,6 @@ track status in-progress 1
 track list in-progress
 track delete 2
 track list
+```
 
 This project is Made, inspired from https://roadmap.sh/projects/task-tracker
